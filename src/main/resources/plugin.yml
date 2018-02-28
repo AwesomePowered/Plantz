@@ -1,0 +1,7 @@
+name: Plantz
+version: ${project.version}
+main: net.awesomepowered.plantz.plantz.Plantz
+authors: [LaxWasHere]
+load: POSTWORLD
+commands:
+  plantz:
