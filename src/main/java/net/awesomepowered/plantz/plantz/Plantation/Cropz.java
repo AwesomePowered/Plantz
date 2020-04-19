@@ -1,6 +1,5 @@
 package net.awesomepowered.plantz.plantz.Plantation;
 
-import com.sun.scenario.effect.Crop;
 import net.awesomepowered.plantz.plantz.Plantz;
 import org.bukkit.Bukkit;
 import org.bukkit.CropState;
